@@ -1,0 +1,515 @@
+Report ID ,Plant,Incident Type,Age Group,Days Lost,Shift,Incident Cost,Gender,Accident Day,Accident Month,Accident Date
+10001,Iowa,Burn,25-34,0,Afternoon,0,Male,1,Jan,2020
+10002,Alabama,Vehicle,35-49,0.5,Day,3367,Male,3,Jan,2020
+10003,Georgia,Cut,18-24,0,Day,0,Male,3,Jan,2020
+10004,Iowa,Falling object,50+,0,Day,0,Female,4,Jan,2020
+10005,Ohio,Lifting,25-34,0,Day,0,Male,7,Jan,2020
+10006,Georgia,Crush & Pinch,50+,0,Afternoon,132,Female,11,Jan,2020
+10007,Iowa,Crush & Pinch,25-34,3.5,Day,4872,Male,11,Jan,2020
+10008,California,Burn,35-49,1.5,Night,1248,Male,12,Jan,2020
+10009,Florida,Fall,18-24,0,Afternoon,29,Male,15,Jan,2020
+10010,Florida,Crush & Pinch,50+,4.5,Afternoon,2525,Male,16,Jan,2020
+10011,Iowa,Falling object,35-49,0,Night,59,Female,18,Jan,2020
+10012,Alabama,Crush & Pinch,35-49,0,Afternoon,1947,Male,23,Jan,2020
+10013,Florida,Vehicle,35-49,0,Day,2268,Male,26,Jan,2020
+10014,Texas,Burn,50+,0,Day,628,Male,27,Jan,2020
+10015,Georgia,Burn,35-49,0,Night,77,Male,27,Jan,2020
+10016,Ohio,Cut,50+,0,Day,341,Male,27,Jan,2020
+10017,Montana,Burn,18-24,0,Afternoon,0,Male,30,Jan,2020
+10018,California,Fall,35-49,0,Day,2007,Male,30,Jan,2020
+10019,Illinois,Crush & Pinch,50+,0,Night,338,Male,1,Feb,2020
+10020,Ohio,Fall,35-49,4,Night,1196,Male,3,Feb,2020
+10021,Montana,Lifting,18-24,0,Night,0,Male,4,Feb,2020
+10022,Montana,Crush & Pinch,35-49,0,Afternoon,180,Male,9,Feb,2020
+10023,Florida,Equipment,25-34,4.5,Afternoon,3784,Male,9,Feb,2020
+10024,Texas,Burn,35-49,1.5,Day,4414,Male,10,Feb,2020
+10025,Ohio,Slip/trip,35-49,2.5,Afternoon,2790,Male,10,Feb,2020
+10026,Illinois,Slip/trip,25-34,0,Afternoon,394,Male,11,Feb,2020
+10027,Montana,Fall,50+,4,Afternoon,4743,Male,12,Feb,2020
+10028,Illinois,Burn,50+,4.5,Night,3417,Male,13,Feb,2020
+10029,Alabama,Crush & Pinch,25-34,0,Night,2337,Male,13,Feb,2020
+10030,Georgia,Equipment,25-34,0,Night,0,Male,14,Feb,2020
+10031,California,Slip/trip,50+,0,Day,207,Male,16,Feb,2020
+10032,Ohio,Fall,35-49,2,Night,2544,Female,17,Feb,2020
+10033,Montana,Equipment,35-49,0,Day,3411,Female,19,Feb,2020
+10034,California,Slip/trip,25-34,0,Afternoon,0,Male,20,Feb,2020
+10035,Georgia,Equipment,25-34,0,Afternoon,4800,Male,22,Feb,2020
+10036,Texas,Equipment,50+,0,Night,3339,Male,27,Feb,2020
+10037,Montana,Lifting,50+,5,Night,4969,Male,28,Feb,2020
+10038,Montana,Fall,18-24,0,Afternoon,360,Male,1,Mar,2020
+10039,Iowa,Burn,35-49,0,Afternoon,0,Male,3,Mar,2020
+10040,Florida,Crush & Pinch,50+,2.5,Day,4718,Male,3,Mar,2020
+10041,Ohio,Burn,25-34,0,Night,0,Male,6,Mar,2020
+10042,Montana,Cut,18-24,0,Day,456,Male,6,Mar,2020
+10043,Alabama,Fall,18-24,0,Night,307,Male,7,Mar,2020
+10044,Ohio,Cut,35-49,0,Day,0,Male,11,Mar,2020
+10045,Florida,Fall,18-24,0,Day,4933,Female,12,Mar,2020
+10046,Iowa,Slip/trip,25-34,4.5,Day,3146,Male,17,Mar,2020
+10047,Montana,Lifting,35-49,0,Day,0,Male,20,Mar,2020
+10048,Ohio,Falling object,35-49,0,Night,3084,Male,21,Mar,2020
+10049,Florida,Falling object,35-49,0,Afternoon,0,Male,23,Mar,2020
+10050,California,Burn,18-24,0,Night,260,Male,3,Apr,2020
+10051,Illinois,Equipment,25-34,0,Afternoon,40,Male,4,Apr,2020
+10052,Montana,Vehicle,25-34,0,Day,2615,Male,4,Apr,2020
+10053,Montana,Falling object,35-49,4.5,Day,450,Male,4,Apr,2020
+10054,Illinois,Slip/trip,18-24,0,Night,4462,Male,6,Apr,2020
+10055,Ohio,Lifting,25-34,0,Night,76,Male,7,Apr,2020
+10056,Ohio,Fall,25-34,0,Night,297,Male,12,Apr,2020
+10057,Alabama,Vehicle,50+,4.5,Night,1152,Female,13,Apr,2020
+10058,Illinois,Slip/trip,18-24,0,Day,0,Male,13,Apr,2020
+10059,Texas,Burn,50+,0,Night,173,Male,14,Apr,2020
+10060,Montana,Fall,50+,0,Night,0,Male,14,Apr,2020
+10061,Illinois,Falling object,35-49,1.5,Afternoon,4731,Male,15,Apr,2020
+10062,Iowa,Burn,50+,0,Afternoon,155,Male,16,Apr,2020
+10063,Georgia,Crush & Pinch,25-34,3,Night,3425,Male,17,Apr,2020
+10064,Alabama,Burn,25-34,0,Night,0,Male,18,Apr,2020
+10065,California,Cut,18-24,3,Night,2627,Male,21,Apr,2020
+10066,Texas,Vehicle,18-24,4,Afternoon,3680,Female,21,Apr,2020
+10067,Iowa,Vehicle,35-49,0,Day,281,Male,22,Apr,2020
+10068,Iowa,Equipment,18-24,0,Afternoon,0,Male,22,Apr,2020
+10069,Montana,Lifting,18-24,1,Day,3954,Male,24,Apr,2020
+10070,Montana,Equipment,50+,0,Day,0,Female,25,Apr,2020
+10071,California,Slip/trip,18-24,0,Day,0,Female,27,Apr,2020
+10072,Illinois,Lifting,25-34,0,Day,2461,Male,2,May,2020
+10073,Illinois,Cut,25-34,0,Day,3851,Male,4,May,2020
+10074,Florida,Burn,50+,0,Night,224,Male,5,May,2020
+10075,Florida,Lifting,18-24,4,Night,3969,Male,7,May,2020
+10076,Alabama,Burn,18-24,0,Night,434,Male,8,May,2020
+10077,Ohio,Crush & Pinch,50+,1,Night,1173,Male,8,May,2020
+10078,Alabama,Fall,35-49,0,Afternoon,236,Male,9,May,2020
+10079,Iowa,Lifting,35-49,0,Day,0,Male,10,May,2020
+10080,Montana,Crush & Pinch,35-49,1.5,Night,1592,Male,10,May,2020
+10081,Georgia,Slip/trip,50+,0,Night,0,Male,11,May,2020
+10082,Montana,Fall,50+,0,Afternoon,0,Male,13,May,2020
+10083,Illinois,Cut,35-49,0,Night,457,Male,13,May,2020
+10084,Ohio,Cut,35-49,0,Day,0,Male,17,May,2020
+10085,Ohio,Fall,18-24,0,Afternoon,247,Male,17,May,2020
+10086,Georgia,Crush & Pinch,25-34,0,Night,457,Male,19,May,2020
+10087,Illinois,Falling object,35-49,0,Afternoon,0,Male,21,May,2020
+10088,Ohio,Falling object,35-49,0,Day,305,Male,22,May,2020
+10089,Montana,Lifting,50+,0,Afternoon,0,Male,23,May,2020
+10090,Florida,Crush & Pinch,25-34,0.5,Afternoon,2468,Male,25,May,2020
+10091,California,Burn,35-49,0.5,Afternoon,786,Male,26,May,2020
+10092,Alabama,Lifting,18-24,0,Day,2481,Male,26,May,2020
+10093,California,Burn,25-34,0.5,Day,674,Male,29,May,2020
+10094,Alabama,Crush & Pinch,50+,0,Night,0,Male,31,May,2020
+10095,Alabama,Lifting,35-49,0,Afternoon,0,Male,31,May,2020
+10096,Georgia,Slip/trip,50+,0,Afternoon,0,Male,2,Jun,2020
+10097,Georgia,Equipment,25-34,0,Night,0,Male,7,Jun,2020
+10098,Ohio,Equipment,18-24,2.5,Night,2370,Male,10,Jun,2020
+10099,California,Falling object,35-49,0,Night,1121,Male,11,Jun,2020
+10100,California,Slip/trip,18-24,0,Day,3269,Male,12,Jun,2020
+10101,Illinois,Lifting,18-24,0,Day,249,Male,15,Jun,2020
+10102,Illinois,Burn,18-24,0,Night,423,Male,15,Jun,2020
+10103,Georgia,Falling object,18-24,0,Day,3397,Male,16,Jun,2020
+10104,California,Falling object,25-34,0,Day,4016,Female,19,Jun,2020
+10105,Montana,Slip/trip,25-34,0,Afternoon,2387,Male,23,Jun,2020
+10106,Iowa,Crush & Pinch,50+,0,Afternoon,0,Male,26,Jun,2020
+10107,Montana,Slip/trip,35-49,0,Afternoon,4292,Male,27,Jun,2020
+10108,Alabama,Equipment,25-34,2,Day,1635,Female,28,Jun,2020
+10109,Florida,Crush & Pinch,18-24,0,Night,0,Male,30,Jun,2020
+10110,Alabama,Slip/trip,18-24,5,Day,603,Male,30,Jun,2020
+10111,Alabama,Lifting,50+,0,Afternoon,1335,Male,1,Jul,2020
+10112,Ohio,Equipment,50+,0,Day,250,Female,6,Jul,2020
+10113,Illinois,Burn,18-24,2,Day,3203,Male,6,Jul,2020
+10114,Illinois,Slip/trip,25-34,0,Day,4246,Male,7,Jul,2020
+10115,Florida,Crush & Pinch,25-34,0,Afternoon,4229,Male,10,Jul,2020
+10116,Alabama,Falling object,18-24,1,Night,3256,Male,11,Jul,2020
+10117,Iowa,Cut,25-34,4,Night,2861,Male,12,Jul,2020
+10118,Montana,Slip/trip,18-24,0,Night,118,Male,12,Jul,2020
+10119,Ohio,Equipment,50+,3.5,Day,3716,Male,13,Jul,2020
+10120,Montana,Crush & Pinch,18-24,0,Day,0,Male,14,Jul,2020
+10121,Alabama,Lifting,35-49,0,Night,0,Male,16,Jul,2020
+10122,Iowa,Cut,35-49,0,Night,532,Male,18,Jul,2020
+10123,Alabama,Equipment,18-24,0,Night,0,Male,19,Jul,2020
+10124,Alabama,Lifting,18-24,0,Day,0,Male,22,Jul,2020
+10125,Texas,Equipment,25-34,5,Night,4281,Male,26,Jul,2020
+10126,Montana,Burn,25-34,0,Day,4455,Male,27,Jul,2020
+10127,California,Equipment,18-24,0,Night,4444,Male,28,Jul,2020
+10128,California,Equipment,50+,2,Night,2777,Male,28,Jul,2020
+10129,Illinois,Lifting,35-49,3,Night,4940,Male,30,Jul,2020
+10130,Ohio,Falling object,35-49,0,Night,0,Female,30,Jul,2020
+10131,Florida,Crush & Pinch,25-34,0,Afternoon,0,Male,1,Aug,2020
+10132,Illinois,Slip/trip,35-49,0,Day,2521,Male,3,Aug,2020
+10133,Georgia,Falling object,35-49,0,Day,1430,Male,4,Aug,2020
+10134,Iowa,Equipment,35-49,5,Afternoon,1505,Male,7,Aug,2020
+10135,Alabama,Burn,35-49,0,Night,921,Male,9,Aug,2020
+10136,Georgia,Equipment,25-34,0,Afternoon,206,Male,9,Aug,2020
+10137,Texas,Slip/trip,25-34,0,Day,0,Female,10,Aug,2020
+10138,Florida,Vehicle,50+,0,Afternoon,0,Male,11,Aug,2020
+10139,California,Burn,50+,0,Afternoon,1835,Male,12,Aug,2020
+10140,California,Slip/trip,35-49,1,Afternoon,2333,Male,13,Aug,2020
+10141,Montana,Cut,35-49,0,Afternoon,0,Female,13,Aug,2020
+10142,Georgia,Fall,35-49,0,Afternoon,1890,Male,13,Aug,2020
+10143,Georgia,Lifting,35-49,0,Night,1951,Male,15,Aug,2020
+10144,Montana,Falling object,35-49,5,Night,3692,Male,21,Aug,2020
+10145,Iowa,Slip/trip,50+,0,Night,242,Male,21,Aug,2020
+10146,Illinois,Cut,35-49,0,Night,0,Female,23,Aug,2020
+10147,Montana,Slip/trip,25-34,0,Day,0,Male,25,Aug,2020
+10148,Florida,Slip/trip,35-49,0,Day,845,Male,26,Aug,2020
+10149,Illinois,Fall,18-24,0,Day,395,Male,27,Aug,2020
+10150,California,Lifting,35-49,0,Afternoon,88,Female,27,Aug,2020
+10151,Alabama,Cut,35-49,0,Afternoon,0,Male,30,Aug,2020
+10152,Ohio,Slip/trip,18-24,2.5,Night,3488,Female,31,Aug,2020
+10153,Texas,Cut,25-34,0,Day,351,Female,5,Sep,2020
+10154,Alabama,Fall,50+,0,Night,430,Male,6,Sep,2020
+10155,Illinois,Falling object,35-49,0,Day,4871,Male,7,Sep,2020
+10156,Illinois,Fall,18-24,1.5,Night,1230,Male,11,Sep,2020
+10157,Ohio,Fall,50+,0,Night,0,Male,13,Sep,2020
+10158,Montana,Cut,35-49,0,Night,1136,Male,14,Sep,2020
+10159,Texas,Lifting,35-49,0,Day,1819,Female,16,Sep,2020
+10160,Georgia,Lifting,25-34,2.5,Night,709,Male,22,Sep,2020
+10161,Florida,Fall,18-24,0,Afternoon,366,Male,23,Sep,2020
+10162,Iowa,Vehicle,35-49,0,Night,133,Male,25,Sep,2020
+10163,Ohio,Lifting,50+,0,Afternoon,470,Male,27,Sep,2020
+10164,Georgia,Cut,35-49,0,Night,0,Male,30,Sep,2020
+10165,Montana,Lifting,35-49,1,Day,2237,Male,4,Oct,2020
+10166,Florida,Burn,50+,0,Day,58,Male,9,Oct,2020
+10167,Iowa,Crush & Pinch,35-49,4.5,Night,3299,Male,11,Oct,2020
+10168,California,Slip/trip,50+,0,Night,369,Male,12,Oct,2020
+10169,Georgia,Crush & Pinch,18-24,0,Day,229,Male,12,Oct,2020
+10170,Ohio,Fall,25-34,2.5,Day,1731,Male,13,Oct,2020
+10171,Florida,Crush & Pinch,35-49,1.5,Afternoon,4823,Male,13,Oct,2020
+10172,Georgia,Lifting,25-34,0,Night,57,Male,14,Oct,2020
+10173,Iowa,Burn,35-49,0,Day,466,Male,16,Oct,2020
+10174,California,Slip/trip,50+,0,Night,0,Male,16,Oct,2020
+10175,California,Vehicle,25-34,0,Night,0,Male,17,Oct,2020
+10176,Texas,Falling object,25-34,0,Day,0,Male,19,Oct,2020
+10177,Iowa,Slip/trip,25-34,2,Night,3549,Male,22,Oct,2020
+10178,Alabama,Equipment,50+,0,Day,2476,Male,24,Oct,2020
+10179,Texas,Burn,25-34,4.5,Night,1935,Male,26,Oct,2020
+10180,Ohio,Equipment,35-49,0,Night,143,Male,27,Oct,2020
+10181,Texas,Lifting,25-34,3,Afternoon,2397,Male,27,Oct,2020
+10182,Texas,Falling object,35-49,1.5,Afternoon,4618,Male,30,Oct,2020
+10183,Georgia,Burn,35-49,0,Day,3849,Male,7,Nov,2020
+10184,Illinois,Fall,18-24,0,Afternoon,588,Male,11,Nov,2020
+10185,Texas,Cut,18-24,0,Afternoon,0,Male,12,Nov,2020
+10186,Texas,Equipment,35-49,4.5,Night,4411,Male,15,Nov,2020
+10187,Texas,Slip/trip,50+,0,Day,0,Male,16,Nov,2020
+10188,California,Vehicle,50+,0,Day,0,Male,18,Nov,2020
+10189,Texas,Fall,35-49,0,Afternoon,282,Male,19,Nov,2020
+10190,California,Burn,35-49,0,Night,244,Female,20,Nov,2020
+10191,Ohio,Slip/trip,35-49,0,Day,278,Male,22,Nov,2020
+10192,California,Falling object,25-34,5,Day,4879,Female,22,Nov,2020
+10193,Illinois,Lifting,18-24,0,Night,414,Female,24,Nov,2020
+10194,Montana,Burn,25-34,5,Day,2569,Female,25,Nov,2020
+10195,Montana,Cut,35-49,0,Day,0,Male,29,Nov,2020
+10196,Florida,Vehicle,25-34,0,Day,4685,Male,30,Nov,2020
+10197,Iowa,Burn,25-34,0,Day,1222,Male,30,Nov,2020
+10198,Ohio,Slip/trip,25-34,3.5,Night,1806,Male,1,Dec,2020
+10199,California,Equipment,50+,0,Day,0,Male,3,Dec,2020
+10200,Georgia,Burn,25-34,1,Afternoon,2877,Female,4,Dec,2020
+10201,Ohio,Cut,25-34,0,Afternoon,1710,Male,4,Dec,2020
+10202,Texas,Fall,25-34,0,Afternoon,0,Male,4,Dec,2020
+10203,California,Falling object,18-24,2.5,Afternoon,903,Male,6,Dec,2020
+10204,Florida,Burn,18-24,0,Afternoon,115,Male,8,Dec,2020
+10205,Georgia,Equipment,50+,0,Day,1168,Male,8,Dec,2020
+10206,Texas,Equipment,18-24,5,Night,2479,Male,9,Dec,2020
+10207,Ohio,Fall,18-24,0,Day,0,Male,10,Dec,2020
+10208,Florida,Slip/trip,18-24,0,Afternoon,361,Male,11,Dec,2020
+10209,Iowa,Equipment,50+,0,Afternoon,4176,Male,12,Dec,2020
+10210,Montana,Burn,35-49,3,Afternoon,3846,Male,16,Dec,2020
+10211,Alabama,Crush & Pinch,35-49,0,Afternoon,4288,Male,18,Dec,2020
+10212,Illinois,Fall,25-34,2.5,Night,3734,Male,23,Dec,2020
+10213,Ohio,Falling object,18-24,0,Afternoon,0,Male,23,Dec,2020
+10214,Illinois,Fall,25-34,0,Night,0,Male,24,Dec,2020
+10215,Illinois,Cut,35-49,2.5,Afternoon,1486,Male,25,Dec,2020
+10216,Alabama,Fall,25-34,0,Night,0,Male,25,Dec,2020
+10217,Georgia,Falling object,25-34,0,Day,733,Male,27,Dec,2020
+10218,Illinois,Burn,25-34,0,Day,265,Male,27,Dec,2020
+10219,Ohio,Burn,50+,0,Afternoon,5000,Male,30,Dec,2020
+10220,Montana,Fall,18-24,0,Day,4366,Male,30,Dec,2020
+10221,Florida,Burn,25-34,2,Day,3060,Male,31,Dec,2020
+10222,Alabama,Crush & Pinch,50+,0,Afternoon,503,Female,3,Jan,2021
+10223,Georgia,Crush & Pinch,25-34,0,Afternoon,3846,Female,3,Jan,2021
+10224,Florida,Vehicle,35-49,0,Day,1690,Male,6,Jan,2021
+10225,Iowa,Cut,35-49,0,Afternoon,1010,Male,7,Jan,2021
+10226,Florida,Falling object,50+,0,Afternoon,0,Male,8,Jan,2021
+10227,Illinois,Slip/trip,35-49,0,Night,0,Male,8,Jan,2021
+10228,Texas,Lifting,25-34,4,Afternoon,1190,Male,8,Jan,2021
+10229,Florida,Fall,25-34,0,Day,2459,Male,11,Jan,2021
+10230,Florida,Falling object,25-34,1.5,Night,995,Male,13,Jan,2021
+10231,Alabama,Crush & Pinch,25-34,2,Day,2593,Male,16,Jan,2021
+10232,Florida,Lifting,50+,0,Day,0,Male,19,Jan,2021
+10233,Iowa,Falling object,18-24,0,Afternoon,8,Male,23,Jan,2021
+10234,Iowa,Vehicle,50+,0,Day,4259,Male,25,Jan,2021
+10235,Texas,Burn,35-49,0,Night,2582,Male,26,Jan,2021
+10236,Iowa,Fall,25-34,0,Night,66,Male,27,Jan,2021
+10237,Illinois,Fall,50+,0.5,Day,2437,Male,2,Feb,2021
+10238,Alabama,Vehicle,50+,0,Day,0,Female,2,Feb,2021
+10239,Illinois,Slip/trip,18-24,0,Day,2359,Male,3,Feb,2021
+10240,Ohio,Burn,50+,0,Night,653,Male,7,Feb,2021
+10241,Iowa,Cut,35-49,0,Afternoon,3487,Male,11,Feb,2021
+10242,California,Falling object,35-49,0,Afternoon,67,Male,11,Feb,2021
+10243,Alabama,Crush & Pinch,50+,2.5,Night,1922,Male,13,Feb,2021
+10244,Montana,Fall,18-24,0,Night,4247,Male,14,Feb,2021
+10245,Illinois,Fall,50+,0,Night,0,Male,15,Feb,2021
+10246,Illinois,Fall,18-24,0,Night,0,Male,18,Feb,2021
+10247,Florida,Slip/trip,25-34,0,Night,0,Female,18,Feb,2021
+10248,California,Crush & Pinch,18-24,0,Night,189,Male,19,Feb,2021
+10249,Texas,Vehicle,25-34,0,Night,0,Male,21,Feb,2021
+10250,Ohio,Lifting,35-49,0,Afternoon,0,Male,24,Feb,2021
+10251,Montana,Slip/trip,18-24,0,Day,2801,Male,26,Feb,2021
+10252,Iowa,Slip/trip,18-24,0,Afternoon,0,Male,28,Feb,2021
+10253,Illinois,Lifting,50+,0,Day,0,Male,1,Mar,2021
+10254,Texas,Equipment,18-24,0,Afternoon,0,Male,2,Mar,2021
+10255,Florida,Slip/trip,25-34,0,Afternoon,382,Male,4,Mar,2021
+10256,Florida,Cut,25-34,1.5,Afternoon,1177,Male,5,Mar,2021
+10257,Iowa,Equipment,25-34,0,Night,308,Male,5,Mar,2021
+10258,California,Equipment,35-49,0,Night,84,Female,11,Mar,2021
+10259,Texas,Slip/trip,18-24,0,Night,501,Male,12,Mar,2021
+10260,Illinois,Slip/trip,25-34,0,Day,4587,Male,14,Mar,2021
+10261,Georgia,Fall,25-34,0,Afternoon,0,Male,14,Mar,2021
+10262,Illinois,Vehicle,18-24,0,Night,3871,Male,15,Mar,2021
+10263,Ohio,Burn,35-49,1.5,Afternoon,4781,Male,17,Mar,2021
+10264,Iowa,Burn,25-34,5,Day,4373,Female,17,Mar,2021
+10265,Montana,Slip/trip,25-34,0.5,Afternoon,2854,Male,18,Mar,2021
+10266,Alabama,Equipment,25-34,0,Afternoon,217,Female,19,Mar,2021
+10267,Texas,Burn,50+,0,Night,804,Male,22,Mar,2021
+10268,Illinois,Lifting,50+,0,Afternoon,668,Male,23,Mar,2021
+10269,Texas,Falling object,35-49,0,Day,0,Male,31,Mar,2021
+10270,Ohio,Vehicle,18-24,5,Night,1993,Female,31,Mar,2021
+10271,Alabama,Vehicle,25-34,0,Night,4836,Male,1,Apr,2021
+10272,Illinois,Crush & Pinch,25-34,0,Day,0,Male,1,Apr,2021
+10273,Ohio,Slip/trip,25-34,0,Night,342,Female,2,Apr,2021
+10274,Illinois,Equipment,50+,5,Day,2468,Male,6,Apr,2021
+10275,Iowa,Cut,25-34,0,Night,2990,Male,8,Apr,2021
+10276,Texas,Lifting,50+,0,Day,4570,Male,9,Apr,2021
+10277,Illinois,Equipment,35-49,0,Night,2022,Male,11,Apr,2021
+10278,Georgia,Vehicle,50+,4,Afternoon,2705,Male,13,Apr,2021
+10279,Illinois,Vehicle,50+,2.5,Afternoon,819,Male,14,Apr,2021
+10280,Illinois,Burn,25-34,0,Night,0,Female,15,Apr,2021
+10281,California,Cut,50+,0,Night,37,Male,16,Apr,2021
+10282,Alabama,Lifting,35-49,0,Night,4741,Male,17,Apr,2021
+10283,Texas,Cut,25-34,0,Day,2063,Male,20,Apr,2021
+10284,Iowa,Crush & Pinch,50+,0,Day,359,Male,20,Apr,2021
+10285,Montana,Falling object,35-49,5,Day,1119,Male,21,Apr,2021
+10286,Florida,Cut,18-24,3,Day,2851,Male,24,Apr,2021
+10287,Montana,Falling object,50+,0,Night,0,Male,25,Apr,2021
+10288,Texas,Burn,35-49,0,Afternoon,1872,Male,1,May,2021
+10289,Alabama,Fall,25-34,3,Day,4303,Male,4,May,2021
+10290,Iowa,Burn,25-34,0,Afternoon,1884,Male,6,May,2021
+10291,Georgia,Cut,25-34,0.5,Day,1084,Male,7,May,2021
+10292,Ohio,Falling object,35-49,0,Day,0,Male,8,May,2021
+10293,Georgia,Falling object,18-24,0,Night,152,Male,8,May,2021
+10294,Montana,Cut,25-34,0,Afternoon,0,Male,10,May,2021
+10295,Ohio,Vehicle,25-34,0,Afternoon,0,Male,12,May,2021
+10296,Montana,Equipment,18-24,0,Afternoon,3286,Female,19,May,2021
+10297,California,Falling object,25-34,0,Day,0,Male,19,May,2021
+10298,Iowa,Vehicle,35-49,0,Afternoon,0,Male,20,May,2021
+10299,Georgia,Fall,25-34,0,Night,60,Male,20,May,2021
+10300,Montana,Burn,50+,0,Afternoon,0,Female,24,May,2021
+10301,Montana,Fall,18-24,0,Afternoon,0,Male,26,May,2021
+10302,Ohio,Cut,50+,0,Night,4213,Male,26,May,2021
+10303,Iowa,Crush & Pinch,25-34,1,Afternoon,3657,Male,29,May,2021
+10304,California,Vehicle,35-49,0,Afternoon,442,Male,30,May,2021
+10305,Georgia,Cut,50+,0,Day,0,Male,1,Jun,2021
+10306,Ohio,Vehicle,25-34,0,Day,0,Male,1,Jun,2021
+10307,Florida,Fall,25-34,0,Night,882,Male,2,Jun,2021
+10308,California,Lifting,25-34,0,Afternoon,0,Male,2,Jun,2021
+10309,California,Vehicle,18-24,3,Afternoon,498,Female,3,Jun,2021
+10310,Texas,Equipment,50+,4.5,Afternoon,3170,Male,3,Jun,2021
+10311,Florida,Burn,25-34,0,Day,4260,Male,6,Jun,2021
+10312,Illinois,Fall,50+,0,Day,107,Male,7,Jun,2021
+10313,Alabama,Falling object,18-24,0,Afternoon,0,Male,8,Jun,2021
+10314,Texas,Equipment,50+,0,Night,152,Male,8,Jun,2021
+10315,Texas,Burn,35-49,4.5,Night,2651,Male,12,Jun,2021
+10316,Texas,Cut,18-24,0,Afternoon,491,Male,12,Jun,2021
+10317,Texas,Vehicle,50+,0,Afternoon,0,Male,13,Jun,2021
+10318,California,Fall,18-24,2,Night,674,Male,15,Jun,2021
+10319,Texas,Burn,18-24,0,Night,718,Male,17,Jun,2021
+10320,Texas,Cut,35-49,1.5,Afternoon,1698,Male,18,Jun,2021
+10321,Montana,Burn,25-34,0,Day,4664,Male,18,Jun,2021
+10322,Florida,Crush & Pinch,25-34,4.5,Night,1694,Male,18,Jun,2021
+10323,Georgia,Lifting,50+,0,Night,522,Male,19,Jun,2021
+10324,Georgia,Falling object,35-49,0,Day,3221,Male,21,Jun,2021
+10325,Georgia,Lifting,18-24,0,Day,0,Male,23,Jun,2021
+10326,Alabama,Burn,50+,0,Day,0,Male,25,Jun,2021
+10327,Georgia,Fall,18-24,0,Night,383,Male,26,Jun,2021
+10328,Georgia,Falling object,25-34,4.5,Day,3588,Male,27,Jun,2021
+10329,Ohio,Vehicle,35-49,0,Day,119,Male,28,Jun,2021
+10330,Iowa,Lifting,25-34,0,Day,0,Male,29,Jun,2021
+10331,Illinois,Falling object,25-34,0,Night,88,Male,4,Jul,2021
+10332,Alabama,Fall,18-24,0,Day,373,Male,6,Jul,2021
+10333,Illinois,Lifting,35-49,0,Day,4905,Male,7,Jul,2021
+10334,Ohio,Crush & Pinch,50+,4.5,Afternoon,738,Male,8,Jul,2021
+10335,Montana,Fall,25-34,0,Day,2450,Male,8,Jul,2021
+10336,Florida,Burn,25-34,0,Night,321,Male,11,Jul,2021
+10337,Georgia,Burn,18-24,0,Day,0,Male,12,Jul,2021
+10338,California,Vehicle,35-49,3.5,Night,2466,Male,13,Jul,2021
+10339,Montana,Falling object,50+,0,Afternoon,0,Male,19,Jul,2021
+10340,Montana,Crush & Pinch,18-24,0,Night,2514,Male,20,Jul,2021
+10341,Iowa,Crush & Pinch,50+,1,Day,3959,Male,21,Jul,2021
+10342,Ohio,Fall,25-34,0,Afternoon,4530,Male,22,Jul,2021
+10343,Alabama,Equipment,25-34,1.5,Day,1241,Male,25,Jul,2021
+10344,Ohio,Lifting,25-34,1,Night,1301,Male,25,Jul,2021
+10345,Georgia,Equipment,35-49,0,Day,140,Male,31,Jul,2021
+10346,Montana,Vehicle,25-34,0,Day,634,Male,2,Aug,2021
+10347,Montana,Slip/trip,25-34,0,Afternoon,3204,Male,3,Aug,2021
+10348,California,Falling object,35-49,0,Afternoon,453,Male,7,Aug,2021
+10349,Ohio,Falling object,25-34,3,Afternoon,2937,Male,7,Aug,2021
+10350,Florida,Cut,50+,0,Day,0,Male,10,Aug,2021
+10351,Ohio,Falling object,18-24,0,Night,0,Male,12,Aug,2021
+10352,Ohio,Equipment,18-24,0,Afternoon,53,Male,13,Aug,2021
+10353,Florida,Vehicle,35-49,2,Day,4160,Male,16,Aug,2021
+10354,Georgia,Cut,35-49,4.5,Night,2988,Male,18,Aug,2021
+10355,Texas,Slip/trip,18-24,0,Day,0,Female,19,Aug,2021
+10356,Alabama,Crush & Pinch,25-34,3.5,Afternoon,1155,Male,21,Aug,2021
+10357,Ohio,Fall,25-34,0,Night,0,Male,22,Aug,2021
+10358,Illinois,Vehicle,50+,2,Day,1902,Male,22,Aug,2021
+10359,Illinois,Vehicle,35-49,0,Afternoon,0,Male,22,Aug,2021
+10360,Georgia,Burn,25-34,2.5,Day,3817,Male,23,Aug,2021
+10361,Texas,Burn,35-49,0,Afternoon,0,Female,24,Aug,2021
+10362,Georgia,Lifting,25-34,0,Afternoon,0,Male,29,Aug,2021
+10363,Illinois,Equipment,35-49,0,Afternoon,302,Male,29,Aug,2021
+10364,Ohio,Cut,18-24,0,Day,95,Male,1,Sep,2021
+10365,Georgia,Cut,25-34,0,Afternoon,4834,Male,3,Sep,2021
+10366,Iowa,Falling object,25-34,0,Day,0,Male,3,Sep,2021
+10367,Texas,Falling object,50+,0,Day,1433,Female,6,Sep,2021
+10368,Illinois,Falling object,35-49,0,Day,0,Male,10,Sep,2021
+10369,Montana,Burn,35-49,0,Afternoon,159,Male,11,Sep,2021
+10370,Illinois,Equipment,18-24,0,Night,0,Male,15,Sep,2021
+10371,Georgia,Crush & Pinch,50+,4,Night,4771,Male,17,Sep,2021
+10372,Georgia,Slip/trip,18-24,3.5,Day,3378,Male,18,Sep,2021
+10373,Georgia,Lifting,18-24,0,Day,3713,Male,19,Sep,2021
+10374,Florida,Falling object,25-34,0,Night,0,Male,20,Sep,2021
+10375,Texas,Cut,50+,0,Day,4994,Male,24,Sep,2021
+10376,California,Cut,50+,0,Night,238,Female,28,Sep,2021
+10377,Georgia,Vehicle,35-49,0,Afternoon,209,Male,29,Sep,2021
+10378,Alabama,Falling object,25-34,0,Afternoon,2120,Male,1,Oct,2021
+10379,Montana,Vehicle,25-34,0,Afternoon,0,Female,1,Oct,2021
+10380,Florida,Vehicle,25-34,1,Day,2245,Male,5,Oct,2021
+10381,California,Crush & Pinch,18-24,0,Afternoon,118,Male,10,Oct,2021
+10382,Florida,Falling object,18-24,0,Afternoon,534,Male,13,Oct,2021
+10383,Montana,Lifting,35-49,0,Afternoon,0,Male,14,Oct,2021
+10384,Texas,Crush & Pinch,25-34,0,Day,420,Male,14,Oct,2021
+10385,Texas,Equipment,50+,4,Afternoon,2622,Female,15,Oct,2021
+10386,California,Vehicle,35-49,3.5,Day,1213,Male,16,Oct,2021
+10387,Montana,Cut,35-49,0,Afternoon,0,Male,17,Oct,2021
+10388,Montana,Fall,25-34,0,Day,65,Male,19,Oct,2021
+10389,Montana,Cut,35-49,0,Night,2860,Male,19,Oct,2021
+10390,Iowa,Lifting,25-34,0,Day,129,Male,23,Oct,2021
+10391,Texas,Lifting,18-24,0,Day,4698,Male,23,Oct,2021
+10392,California,Fall,35-49,0,Day,0,Male,26,Oct,2021
+10393,Illinois,Lifting,35-49,0,Day,36,Male,28,Oct,2021
+10394,Illinois,Cut,50+,0,Day,0,Male,30,Oct,2021
+10395,Florida,Cut,50+,0,Day,0,Male,2,Nov,2021
+10396,California,Cut,50+,0,Night,1585,Male,6,Nov,2021
+10397,Iowa,Slip/trip,35-49,3,Night,2015,Male,9,Nov,2021
+10398,California,Equipment,50+,4,Day,1793,Male,10,Nov,2021
+10399,Illinois,Vehicle,18-24,2.5,Afternoon,807,Male,12,Nov,2021
+10400,California,Cut,35-49,0.5,Afternoon,920,Female,14,Nov,2021
+10401,Florida,Slip/trip,25-34,0,Day,37,Male,15,Nov,2021
+10402,Georgia,Slip/trip,50+,0,Night,4791,Male,15,Nov,2021
+10403,Iowa,Crush & Pinch,25-34,0,Day,2124,Male,16,Nov,2021
+10404,Ohio,Fall,35-49,0,Afternoon,0,Female,17,Nov,2021
+10405,Alabama,Slip/trip,25-34,0,Day,1636,Male,21,Nov,2021
+10406,Georgia,Vehicle,25-34,0,Night,4069,Male,22,Nov,2021
+10407,Ohio,Lifting,35-49,0,Afternoon,493,Male,23,Nov,2021
+10408,Alabama,Falling object,18-24,0,Night,1493,Male,24,Nov,2021
+10409,Ohio,Cut,18-24,0,Night,0,Male,26,Nov,2021
+10410,Alabama,Fall,50+,0,Day,449,Female,28,Nov,2021
+10411,Florida,Slip/trip,18-24,1.5,Night,4871,Male,30,Nov,2021
+10412,Florida,Lifting,25-34,0,Day,0,Female,3,Dec,2021
+10413,Montana,Fall,50+,0,Night,0,Male,4,Dec,2021
+10414,California,Lifting,25-34,0,Night,4021,Male,6,Dec,2021
+10415,Georgia,Fall,25-34,4.5,Night,4399,Male,6,Dec,2021
+10416,Texas,Vehicle,35-49,0,Afternoon,324,Male,8,Dec,2021
+10417,Alabama,Cut,35-49,0,Day,125,Male,17,Dec,2021
+10418,Iowa,Lifting,50+,0,Day,2351,Male,20,Dec,2021
+10419,Florida,Lifting,25-34,0,Day,0,Male,22,Dec,2021
+10420,California,Equipment,35-49,0,Day,2699,Male,23,Dec,2021
+10421,Alabama,Equipment,35-49,0,Night,422,Male,28,Dec,2021
+10422,Illinois,Cut,50+,0,Night,0,Male,29,Dec,2021
+10423,Florida,Equipment,50+,1,Afternoon,3582,Male,2,Jan,2022
+10424,California,Fall,35-49,0,Night,0,Male,3,Jan,2022
+10425,Iowa,Slip/trip,25-34,0,Afternoon,0,Male,4,Jan,2022
+10426,Iowa,Crush & Pinch,25-34,1.5,Night,2459,Male,4,Jan,2022
+10427,Texas,Cut,25-34,0,Day,60,Male,8,Jan,2022
+10428,Alabama,Lifting,35-49,4,Night,736,Female,9,Jan,2022
+10429,Texas,Equipment,50+,0,Day,0,Male,12,Jan,2022
+10430,Illinois,Burn,35-49,0,Night,0,Male,14,Jan,2022
+10431,Alabama,Cut,50+,0,Day,1045,Male,15,Jan,2022
+10432,Illinois,Slip/trip,50+,0,Day,83,Male,16,Jan,2022
+10433,Montana,Slip/trip,50+,0,Night,0,Male,16,Jan,2022
+10434,Alabama,Burn,35-49,1.5,Day,998,Male,19,Jan,2022
+10435,Florida,Burn,25-34,1,Day,2170,Male,19,Jan,2022
+10436,Iowa,Equipment,18-24,0,Night,385,Male,20,Jan,2022
+10437,Alabama,Burn,18-24,0,Afternoon,1277,Male,21,Jan,2022
+10438,Georgia,Fall,35-49,0,Afternoon,350,Male,22,Jan,2022
+10439,Ohio,Falling object,25-34,0,Night,2321,Male,27,Jan,2022
+10440,Florida,Vehicle,18-24,0,Day,0,Male,28,Jan,2022
+10441,Florida,Lifting,18-24,2.5,Afternoon,4947,Male,28,Jan,2022
+10442,Ohio,Equipment,35-49,5,Day,1919,Female,30,Jan,2022
+10443,Texas,Falling object,35-49,0,Afternoon,0,Male,2,Feb,2022
+10444,Alabama,Falling object,25-34,1.5,Night,2381,Male,2,Feb,2022
+10445,Georgia,Vehicle,50+,0,Afternoon,534,Male,6,Feb,2022
+10446,Georgia,Vehicle,18-24,0,Day,461,Male,7,Feb,2022
+10447,Georgia,Crush & Pinch,50+,0,Night,0,Male,8,Feb,2022
+10448,Georgia,Cut,35-49,4,Night,1392,Male,8,Feb,2022
+10449,Texas,Cut,50+,4,Night,540,Male,9,Feb,2022
+10450,Illinois,Fall,50+,0,Night,41,Male,9,Feb,2022
+10451,Iowa,Lifting,25-34,0,Afternoon,719,Male,10,Feb,2022
+10452,Georgia,Vehicle,25-34,0,Night,0,Male,11,Feb,2022
+10453,Texas,Lifting,35-49,0,Night,330,Male,14,Feb,2022
+10454,Montana,Falling object,50+,4.5,Afternoon,855,Male,14,Feb,2022
+10455,Iowa,Slip/trip,35-49,3.5,Night,3824,Male,15,Feb,2022
+10456,Alabama,Vehicle,25-34,0,Night,3419,Male,22,Feb,2022
+10457,Iowa,Crush & Pinch,50+,4,Afternoon,1594,Female,23,Feb,2022
+10458,California,Fall,35-49,4.5,Night,585,Male,24,Feb,2022
+10459,Texas,Burn,35-49,0,Night,0,Male,24,Feb,2022
+10460,Ohio,Cut,25-34,0,Night,2793,Female,26,Feb,2022
+10461,Illinois,Lifting,35-49,0,Night,326,Male,27,Feb,2022
+10462,Montana,Falling object,35-49,0,Night,314,Male,28,Feb,2022
+10463,Texas,Vehicle,35-49,3.5,Afternoon,1769,Male,3,Mar,2022
+10464,Illinois,Vehicle,50+,0,Afternoon,0,Male,12,Mar,2022
+10465,Alabama,Equipment,18-24,4,Afternoon,3498,Male,12,Mar,2022
+10466,Texas,Crush & Pinch,25-34,1.5,Day,2336,Male,15,Mar,2022
+10467,Illinois,Cut,50+,0,Night,114,Male,17,Mar,2022
+10468,Alabama,Cut,18-24,0,Afternoon,174,Male,22,Mar,2022
+10469,California,Slip/trip,25-34,0,Night,3379,Male,22,Mar,2022
+10470,Ohio,Slip/trip,25-34,0.5,Afternoon,4145,Male,25,Mar,2022
+10471,Texas,Slip/trip,50+,0,Day,4150,Male,26,Mar,2022
+10472,Montana,Fall,50+,0,Night,259,Male,28,Mar,2022
+10473,Iowa,Fall,35-49,3.5,Day,3134,Male,1,Apr,2022
+10474,California,Equipment,18-24,0,Night,4130,Male,1,Apr,2022
+10475,Montana,Equipment,25-34,3.5,Night,1424,Male,3,Apr,2022
+10476,Florida,Lifting,18-24,2,Day,4908,Male,4,Apr,2022
+10477,Montana,Fall,50+,0,Afternoon,162,Male,6,Apr,2022
+10478,Florida,Fall,35-49,0,Day,4149,Male,7,Apr,2022
+10479,Florida,Equipment,35-49,0,Night,0,Male,7,Apr,2022
+10480,Montana,Lifting,18-24,0,Afternoon,0,Male,8,Apr,2022
+10481,Ohio,Slip/trip,18-24,0,Afternoon,1174,Male,8,Apr,2022
+10482,California,Burn,25-34,1.5,Afternoon,1777,Male,12,Apr,2022
+10483,Montana,Falling object,25-34,0,Day,59,Male,17,Apr,2022
+10484,Georgia,Vehicle,35-49,0,Night,0,Male,20,Apr,2022
+10485,Alabama,Crush & Pinch,25-34,0,Afternoon,1848,Male,24,Apr,2022
+10486,Iowa,Slip/trip,18-24,0,Day,0,Male,24,Apr,2022
+10487,Texas,Slip/trip,25-34,0,Day,1696,Male,27,Apr,2022
+10488,Texas,Fall,50+,0,Night,5,Male,27,Apr,2022
+10489,Ohio,Slip/trip,50+,0,Night,0,Male,29,Apr,2022
+10490,Illinois,Vehicle,35-49,0,Afternoon,2795,Female,3,May,2022
+10491,Montana,Burn,18-24,0,Day,0,Male,6,May,2022
+10492,Alabama,Vehicle,50+,0,Afternoon,0,Male,7,May,2022
+10493,Montana,Slip/trip,25-34,0,Day,277,Male,8,May,2022
+10494,Iowa,Fall,50+,0,Afternoon,189,Male,11,May,2022
+10495,Florida,Falling object,25-34,2.5,Night,4563,Male,16,May,2022
+10496,Montana,Equipment,35-49,0,Afternoon,341,Male,17,May,2022
+10497,Georgia,Cut,50+,0,Day,0,Male,19,May,2022
+10498,Florida,Burn,18-24,0,Day,1824,Male,23,May,2022
+10499,Florida,Cut,35-49,0,Night,1643,Male,26,May,2022
+10500,Georgia,Equipment,18-24,0,Afternoon,115,Male,27,May,2022
+10501,Illinois,Burn,18-24,1,Night,1449,Male,30,May,2022
+10502,California,Fall,25-34,0,Afternoon,2764,Male,31,May,2022
+10503,Alabama,Lifting,50+,0,Afternoon,0,Male,3,Jun,2022
+10504,California,Equipment,18-24,0,Day,67,Male,3,Jun,2022
+10505,Georgia,Burn,50+,0,Afternoon,4639,Male,3,Jun,2022
+10506,Iowa,Slip/trip,25-34,0,Day,0,Male,5,Jun,2022
+10507,California,Crush & Pinch,25-34,0,Day,0,Male,7,Jun,2022
+10508,Florida,Slip/trip,50+,0,Day,2356,Female,10,Jun,2022
+10509,Iowa,Burn,50+,0,Day,2184,Male,25,Jun,2022
+10510,California,Crush & Pinch,25-34,0,Night,77,Female,26,Jun,2022
+10511,Florida,Lifting,25-34,0,Afternoon,0,Male,27,Jun,2022
+10512,Florida,Cut,25-34,0,Afternoon,0,Male,28,Jun,2022
+10513,Florida,Falling object,50+,0,Night,804,Male,28,Jun,2022
+10514,Texas,Vehicle,18-24,0,Afternoon,706,Male,28,Jun,2022

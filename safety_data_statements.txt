@@ -1,0 +1,156 @@
+accidentlogs
+
+THE FIRST TWO SQL STATEMENTS DEALS WITH DATABASE/TABLE CREATION 
+FIRST WAS CREATING THE DATABASE SafetyData THEN I CREATED THE TABLE accidentlogs
+IN THE NEWLY MADE DATABASE.
+THE DATA FOR THIS TABLE AND ALL THE OTHER TABLE WILL BE COMING FROM
+THE CSV FILE CALLED SafetyDataClean THE ORGINAL DATA IS ALSO IN THIS
+FOLDER   
+
+CREATE DATABASE SafetyData;
+
+CREATE TABLE accidentlogs
+( 	report_ID int, 
+	plant char(15), 
+	incident_Type char(15), 
+	age_Group char(7), 
+	days_Loss decimal(2, 1), 
+	shift char(9), 
+	incident_Cost int,
+	gender char(6), 
+	accident_day char(2), 
+	accident_month char(3), 
+	accident_year char(4) );
+
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+
+BELOW WAS THE FIRST TIME I EVER USED THE TRANSACTION AND COMMIT STATEMENTS
+TO RUN MULTIPLE SQL STATEMENTS. AGAIN ALL THIS DATA IS ORIGINALLY FROM THE 
+CSV FILE CALLED SafetyDataClean.
+
+START TRANSACTION;
+CREATE TABLE incidentType(
+    incident_TypeID char(1),
+    incident_Type char(15)
+);
+
+INSERT INTO incidentType
+ VALUES
+ ('A','Burn'),
+ ('B','Crush & Pinch'),
+ ('C','Cut'),
+ ('D','Equipment'),
+ ('E','Fall'),
+ ('F','Falling Object'),
+ ('G','Lifting'),
+ ('H','Slip/Trip'),
+ ('I','Vehicle')
+;
+
+CREATE TABLE ageLevels(
+   age_GroupID char(2),   
+   age_Group char(7) 
+);
+
+INSERT INTO ageLevels
+ VALUES
+ ('01', '18-24'),
+ ('02', '25-34'),
+ ('03', '35-49'),
+ ('04', '50+');
+ 
+CREATE TABLE plantLocations(
+   plantInitials char(2),
+   plant char(15)
+);
+
+INSERT INTO plantLocations
+ VALUES
+ ('IA', 'Iowa'),
+ ('AL', 'Alabama'),
+ ('GA', 'Georgia'),
+ ('OH', 'Ohio'),
+ ('CA', 'California'),
+ ('FL', 'Florida'),
+ ('TX', 'Texas'),
+ ('MT', 'Montana'),
+ ('IL', 'Illinois')
+COMMIT;
+
+/////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+
+THIS IS THE FINAL TABLE AND THE REASON WHY I CREATED TABLES AND A UNIQUE ID
+FOR INCIDENTS, AGE GROUP AND PLANT WAS TO PREVENT DATA ANOMILIES AND REDUNDANCIES 
+IN THE EVENT THAT A NEW ROW IS ADDED 
+
+CREATE TABLE finalAccidentLogs AS
+  SELECT a.report_ID, i.incident_TypeID, 
+    	   g.age_GroupID, p.plantInitials,
+         a.days_Loss, a.shift,
+         a.incident_Cost, a.gender,
+         a.accident_day,   	
+         a.accident_month,
+         a.accident_year
+  FROM accidentlogs a
+  JOIN incidenttype i ON a.incident_Type = i.incident_Type
+  JOIN agelevels g ON a.age_Group = g.age_Group
+  JOIN plantlocations p ON a.plant = p.plant;
+
+/////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+
+HERE IS WHERE WE USE SQL TO ANSWER SOME BUSINESS RELATED QUESTIONS  
+
+Determine the number incidents for each plant
+SELECT p.plant, COUNT(f.report_ID) AS 'Number of Incidents'
+FROM finalAccidentLogs f
+JOIN plantlocations p ON f.plantInitials = p.plantInitials
+GROUP BY p.plant
+ORDER BY COUNT(f.report_ID);
+
+Determine the the total number of accidents for each incident type
+SELECT i.incident_Type, COUNT(f.report_ID), 
+	100*(COUNT(f.report_ID)/ 
+	(SELECT COUNT(report_ID)
+      FROM finalaccidentlogs)) AS 	          
+	'Percent of Total accidents' 
+FROM finalaccidentlogs f
+JOIN incidenttype i ON f.incident_TypeID = i.incident_TypeID
+GROUP BY i.incident_Type;
+
+Determine the cost for each incident type
+SELECT i.incident_Type,
+    SUM(f.incident_Cost) AS 'Incident Costs',
+    100*(SUM(f.incident_Cost)/(SELECT SUM(incident_cost)
+    FROM finalaccidentlogs)) AS 'Percent of Total Cost'
+FROM finalaccidentlogs f
+JOIN incidenttype i ON f.incident_TypeID = i.incident_TypeID
+GROUP BY i.incident_Type;
+
+Determine the months with an average incident cost of more than $1500
+SELECT f.accident_month, 
+   SUM(f.incident_Cost) AS Costs, 
+   AVG(f.incident_Cost) AS 'Average Costs'
+FROM finalaccidentlogs f
+GROUP BY f.accident_month
+HAVING AVG(f.incident_Cost) > 1500
+
+Determine the incident costs and average per type, also has number of incidents
+SELECT i.incident_Type AS 'Incident Type', 
+   SUM(f.incident_Cost) AS 'Total Costs', 
+   AVG(f.incident_Cost) AS 'Average Cost per Incident',
+   COUNT(f.report_ID) AS 'Total number of incidents'
+FROM finalaccidentlogs f
+JOIN incidenttype i ON f.incident_TypeID = i.incident_TypeID
+GROUP BY(i.incident_Type)
+HAVING AVG(f.incident_Cost) > 1220
+LIMIT 5;
+
+
+
+
